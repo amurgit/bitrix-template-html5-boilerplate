@@ -1,0 +1,1 @@
+<?$arTemplate = Array("NAME"=>"HTML5 ★ Boilerplate", "DESCRIPTION"=>"HTML5 ★ Boilerplate for Bitrix");?>
